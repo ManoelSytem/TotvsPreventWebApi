@@ -1,0 +1,14 @@
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\bin\Debug\netcoreapp2.1\TotvsPreventWebApi.deps.json
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\bin\Debug\netcoreapp2.1\TotvsPreventWebApi.runtimeconfig.json
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\bin\Debug\netcoreapp2.1\TotvsPreventWebApi.runtimeconfig.dev.json
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\bin\Debug\netcoreapp2.1\TotvsPreventWebApi.dll
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.csprojAssemblyReference.cache
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.csproj.CoreCompileInputs.cache
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.RazorAssemblyInfo.cache
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.RazorAssemblyInfo.cs
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.AssemblyInfoInputs.cache
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.AssemblyInfo.cs
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\bin\Debug\netcoreapp2.1\TotvsPreventWebApi.pdb
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.dll
+C:\Users\manoel.oliveira\Desktop\TotvsPreventWeb\TotvsPreventWebApi\TotvsPreventWebApi\obj\Debug\netcoreapp2.1\TotvsPreventWebApi.pdb
