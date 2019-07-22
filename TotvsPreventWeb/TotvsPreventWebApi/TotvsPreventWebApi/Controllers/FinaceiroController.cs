@@ -8,11 +8,11 @@ using TotvsPreventWebApi.Model;
 
 namespace TotvsPreventWebApi.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class FinaceiroController : ControllerBase
-    {
 
+    [Route("api/[controller]/[action]")]
+    public class FinaceiroController 
+    {
+      
         private readonly IFinaceiro _finaceiroRepositorio;
 
         public FinaceiroController(IFinaceiro IFinaceiroRepositorio)

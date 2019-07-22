@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\TotvsPreventWebApi.csproj": {}
+    "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWebApi\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\TotvsPreventWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\TotvsPreventWebApi.csproj": {
+    "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWebApi\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\TotvsPreventWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\TotvsPreventWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWebApi\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\TotvsPreventWebApi.csproj",
         "projectName": "TotvsPreventWebApi",
-        "projectPath": "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\TotvsPreventWebApi.csproj",
+        "projectPath": "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWebApi\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\TotvsPreventWebApi.csproj",
         "packagesPath": "C:\\Users\\manoel.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\obj\\",
+        "outputPath": "C:\\Users\\manoel.oliveira\\Desktop\\TotvsPreventWebApi\\TotvsPreventWeb\\TotvsPreventWebApi\\TotvsPreventWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
